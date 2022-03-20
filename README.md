@@ -4,7 +4,7 @@ This is a project a project to learn and practice Svelte & TypeScript.
 
 ## Links
 
-- Hosted on GitHub Pages: https://github.io/androozka/example-svelte-ts--feedback-app
+- Hosted on GitHub Pages: https://androozka.github.io/example-svelte-ts--feedback-app
 - Original Project: https://github.com/bradtraversy/svelte-feedback-app
 
 ## Local Hosting
